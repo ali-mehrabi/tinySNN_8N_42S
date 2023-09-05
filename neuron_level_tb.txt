@@ -1,0 +1,47 @@
+module neuron_level_tb();
+
+parameter p_width = 8;
+parameter p_shift = 8;
+parameter p_n = 4;
+
+reg  [42:1]           r_event;
+reg                   r_rst_n;
+reg                   r_clk; 
+reg  [p_width-1:0]    r_weight[42:1];
+reg  [p_width+p_shift+5:0] r_threshold; 
+wire [42:1] w_sync;
+wire [p_width+p_shift+5:0] w_neuronout; 
+integer i;
+
+
+
+always #1 r_clk <= ~ r_clk;
+
+initial 
+begin 
+  r_clk = 0;
+  r_rst_n = 0;
+  r_threshold = 22'h01;
+  for(i=0; i<=42; i=i+1)
+  begin
+   r_weight[i] = 8'h0f;
+   r_event[i] = 1'b0;
+  end
+
+
+neuron_level
+#(.p_width(p_width),
+  .p_shift(p_shift),
+  .p_n(4)) uut
+(
+.i_clk(r_clk),
+.i_rst_n(r_rst_n),
+.i_event(r_event),
+.i_weight(r_weight),
+.i_threshold(r_threshod),
+.o_sync(w_sync),
+.o_spike(w_spike)
+);
+
+
+endmodule

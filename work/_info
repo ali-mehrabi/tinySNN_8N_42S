@@ -1,0 +1,733 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S
+T_opt
+!s110 1693183847
+V:9K0@02Z7[GiWXcdzg4BJ1
+04 12 4 work neuron42s_tb fast 0
+=6-98e743a6c2aa-64ebef67-55-6c70
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1693266892
+VkQS[hz[K81d4[<@@DCkPE1
+Z4 04 10 4 work network_tb fast 0
+=18-98e743a6c2aa-64ed33cb-36c-2d58
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1693548217
+VeiVcYMJIi26K8?9GiGNHP3
+R4
+=13-98e743a6c2aa-64f17eb7-16d-e34
+R1
+R2
+n@_opt2
+R3
+R0
+vadder_42in
+!s110 1693874827
+!i10b 1
+!s100 HgNcCM__]Z:HOeeLXG@BP3
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIA90K2>hnIabFKaAUPI7R1
+Z6 dC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim
+w1693527353
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\addrer_42in.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\addrer_42in.v
+!i122 965
+L0 1 155
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1693874827.000000
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\addrer_42in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\addrer_42in.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vadder_42in_tb
+Z10 !s110 1693548198
+!i10b 1
+!s100 MDKfBcZHI@=k=^?HQa?923
+R5
+I2zNWYk1I9H7JAg7o2]4aa3
+R6
+w1689133764
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v
+!i122 937
+L0 1 109
+R7
+R8
+r1
+!s85 0
+31
+Z11 !s108 1693548198.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v|
+!i113 0
+R9
+R2
+vauto_trainer
+Z12 !s110 1693548204
+!i10b 1
+!s100 <iFX>3=XDG1A7Ygdba1z]3
+R5
+I@@IX[K9zW06f:PGCnlL]I1
+R6
+w1690242620
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v
+!i122 961
+L0 3 114
+R7
+R8
+r1
+!s85 0
+31
+Z13 !s108 1693548204.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v|
+!i113 0
+R9
+R2
+vcomp_4in
+Z14 !s110 1693548199
+!i10b 1
+!s100 kO]1PS^YJAG<Iodo3Q3DJ0
+R5
+IZ<NzE^XU;9M9=[MhJ>O@12
+R6
+w1693367326
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comb_compare_4in.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comb_compare_4in.v
+!i122 940
+Z15 L0 2 23
+R7
+R8
+r1
+!s85 0
+31
+Z16 !s108 1693548199.000000
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comb_compare_4in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comb_compare_4in.v|
+!i113 0
+R9
+R2
+vcomparator_4in
+!s110 1693367032
+!i10b 1
+!s100 =jao<]hhFCQ;f;6YHP5121
+R5
+I8d2bEhignYe8YN6bXNMPG1
+R6
+w1693264966
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/compare_4in.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/compare_4in.v
+!i122 850
+L0 2 42
+R7
+R8
+r1
+!s85 0
+31
+!s108 1693367032.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/compare_4in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/compare_4in.v|
+!i113 0
+R9
+R2
+vcomparator_8in
+R14
+!i10b 1
+!s100 @QC=1SgmmCHJRI_<LZ1mM1
+R5
+I]93D=cFPoFfa4E]h64>CS3
+R6
+w1693367233
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comparator_8in.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comparator_8in.v
+!i122 941
+Z17 L0 2 62
+R7
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comparator_8in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comparator_8in.v|
+!i113 0
+R9
+R2
+vcomparator_8in_tb
+Z18 !s110 1693548200
+!i10b 1
+!s100 z@1^g]Ne0X^Qe3b<=3mM51
+R5
+I1IL[l?W^CYab<X]X8_>C<3
+R6
+w1691625881
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v
+!i122 942
+L0 3 170
+R7
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v|
+!i113 0
+R9
+R2
+vcsa_adder_4in
+R10
+!i10b 1
+!s100 igUQ^eT3UMaU9TP?moHzX3
+R5
+IedBRC]3H56BP<BzG`i3zS0
+R6
+w1689053257
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v
+!i122 936
+Z19 L0 1 28
+R7
+R8
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v|
+!i113 0
+R9
+R2
+vdelayed_reset
+R18
+!i10b 1
+!s100 Yz_C_4U3N[GDJ;zAcS`zk2
+R5
+IPd5f5L=_X;?G==P>oeJ>d1
+R6
+w1687311389
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v
+!i122 943
+L0 1 41
+R7
+R8
+r1
+!s85 0
+31
+Z20 !s108 1693548200.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v|
+!i113 0
+R9
+R2
+vfeast_network
+R18
+!i10b 1
+!s100 9Dn>bL?U5TXH1:hMZ4;:T1
+R5
+Im3X8PD220D3Tb4FXheo=Y3
+R6
+w1691627418
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v
+!i122 944
+L0 1 64
+R7
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v|
+!i113 0
+R9
+R2
+vflipflop
+R18
+!i10b 1
+!s100 hmeLT?UogVD9ido4O`@lo2
+R5
+I<3hBBK9;_CAAR^ml<jUA:2
+R6
+w1677114458
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v
+!i122 945
+R15
+R7
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v|
+!i113 0
+R9
+R2
+vlv_reg
+R18
+!i10b 1
+!s100 0b=m<3V31@[L^Pm0SmQR@2
+R5
+IfP<oQ8cBW1`GiBNVW>XAe2
+R6
+w1678941571
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v
+!i122 946
+L0 2 21
+R7
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v|
+!i113 0
+R9
+R2
+vnetwork
+Z21 !s110 1693548201
+!i10b 1
+!s100 c4R]nQN:JbhN8ghoi3G;A3
+R5
+IP352jKeGmbbzmEbg1IWz;1
+R6
+w1693184235
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v
+!i122 947
+R17
+R7
+R8
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v|
+!i113 0
+R9
+R2
+vnetwork_tb
+R21
+!i10b 1
+!s100 lHjYPm8k:^XccAm<9Xl4H1
+R5
+ICU1?;GBhoR3izZ6PFGY7^1
+R6
+w1693366987
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\network_tb.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\network_tb.v
+!i122 948
+L0 2 101
+R7
+R8
+r1
+!s85 0
+31
+Z22 !s108 1693548201.000000
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\network_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\network_tb.v|
+!i113 0
+R9
+R2
+vneuron42s
+Z23 !s110 1693548202
+!i10b 1
+!s100 aQG@mj9i<6ZVkW7D>>:722
+R5
+I=^TLZ?kN;>WoCoHHD<PZR0
+R6
+w1693265203
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v
+!i122 952
+L0 2 95
+R7
+R8
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v|
+!i113 0
+R9
+R2
+vneuron42s_tb
+R21
+!i10b 1
+!s100 [e`S1>6gm:Gg[WhjNkC?G1
+R5
+I_D=n?i^MjO2[31NYOm<>70
+R6
+w1693182933
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v
+!i122 951
+L0 2 121
+R7
+R8
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v|
+!i113 0
+R9
+R2
+vneuron_8vs_tb
+R21
+!i10b 1
+!s100 QK4XDd`0C:ccV_BZA]4OV3
+R5
+ISWiz6jj>QQV4NUf;S5RGc1
+R6
+w1688705369
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v
+!i122 949
+L0 2 139
+R7
+R8
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v|
+!i113 0
+R9
+R2
+vOLV
+R23
+!i10b 1
+!s100 <9RnE??7ee8EQ_L`A=5M11
+R5
+I8QRVMhLcd9cN^@ASbie@d1
+R6
+w1693184903
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_v2.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_v2.v
+!i122 954
+L0 1 91
+R7
+R8
+r1
+!s85 0
+31
+Z24 !s108 1693548202.000000
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_v2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_v2.v|
+!i113 0
+R9
+R2
+n@o@l@v
+vOLV_train
+R23
+!i10b 1
+!s100 fkJKJ69kDKLz2jCJDTkAW1
+R5
+IJ^ckc7gg:LWgI=5lMZ:9b0
+R6
+w1693369393
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_train.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_train.v
+!i122 953
+L0 2 225
+R7
+R8
+r1
+!s85 0
+31
+R24
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_train.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_train.v|
+!i113 0
+R9
+R2
+n@o@l@v_train
+vpulse
+!s110 1693548205
+!i10b 1
+!s100 hz5k7M_<?9Cc38RNoD=Q`2
+R5
+Iah9naSnPKM;ac]z8?SW=A1
+R6
+w1691641277
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v
+!i122 964
+L0 1 79
+R7
+R8
+r1
+!s85 0
+31
+!s108 1693548205.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v|
+!i113 0
+R9
+R2
+vpulse_new
+!s110 1693183838
+!i10b 1
+!s100 KQ55fa94JH>Y3A]^Hl_CO2
+R5
+ILOT1>=hoVkJ9f9=Nl<Jaz1
+R6
+w1691638102
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse_new.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse_new.v
+!i122 182
+L0 1 78
+R7
+R8
+r1
+!s85 0
+31
+!s108 1693183838.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse_new.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse_new.v|
+!i113 0
+R9
+R2
+vread_samples_from_file
+R23
+!i10b 1
+!s100 lFcD3K2XDIYh;:@:;2jK81
+R5
+ITSNHEioITHYn]7[3oOzQc2
+R6
+w1689823879
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v
+!i122 955
+L0 1 40
+R7
+R8
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v|
+!i113 0
+R9
+R2
+vspike_generator
+R23
+!i10b 1
+!s100 NI>N2[S=EJg4l[j78AB`:1
+R5
+I^CUTL5jYhzB<`<3jhjYAg3
+R6
+w1656381515
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v
+!i122 956
+L0 1 29
+R7
+R8
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v|
+!i113 0
+R9
+R2
+vsynapse
+Z25 !s110 1693548203
+!i10b 1
+!s100 TmE7[:=dgzP0nkWIe>jCU1
+R5
+I@PL64`Vde]@3IE943^F6?0
+R6
+w1693266879
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v
+!i122 957
+L0 2 41
+R7
+R8
+r1
+!s85 0
+31
+Z26 !s108 1693548203.000000
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v|
+!i113 0
+R9
+R2
+vsynapse_w_tb
+R25
+!i10b 1
+!s100 cO3kT5ZOjf4J_fz[WD<EY0
+R5
+I8hKcmSzd@ciLWV^bcfO?32
+R6
+w1688614068
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v
+!i122 959
+L0 1 96
+R7
+R8
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v|
+!i113 0
+R9
+R2
+vsynchronizer
+R25
+!i10b 1
+!s100 9zJl^lb;RBkk`2obI`R951
+R5
+Ilk9bnLC^DJ3]Eo6BHfhdM2
+R6
+w1693183411
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v
+!i122 958
+L0 2 31
+R7
+R8
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v|
+!i113 0
+R9
+R2
+vtracer
+R12
+!i10b 1
+!s100 c1@DXBBbc:]B8GFbYBPOO1
+R5
+I0mTW;PMM1B>Z4GCV`hGJX0
+R6
+w1689726890
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v
+!i122 960
+R19
+R7
+R8
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v|
+!i113 0
+R9
+R2
+vtrainer_tb
+R14
+!i10b 1
+!s100 TV5k^YheeIDje95]>XI<]2
+R5
+IPIeIBUbR^`PK[<A_BiAd40
+R6
+w1689830994
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v
+!i122 939
+L0 3 33
+R7
+R8
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v|
+!i113 0
+R9
+R2
+vwlif
+R12
+!i10b 1
+!s100 0HD<J71Vf:=G6Q@EDzJl;2
+R5
+IDj5cXLVUgAFzKNe`E<C:L1
+R6
+w1693358287
+8C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\wlif.v
+FC:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\wlif.v
+!i122 962
+L0 2 54
+R7
+R8
+r1
+!s85 0
+31
+R13
+!s107 C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\wlif.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\wlif.v|
+!i113 0
+R9
+R2
+vwlif_tb
+R12
+!i10b 1
+!s100 2NEGX213h_nFQ9YnoaC5D3
+R5
+Ibo=4Oil^=CQA<DK=C_7zZ1
+R6
+w1689048152
+8C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v
+FC:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v
+!i122 963
+L0 3 105
+R7
+R8
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v|
+!i113 0
+R9
+R2

@@ -1,0 +1,134 @@
+{C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/synchronizer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/synchronizer.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/addrer_42in.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/addrer_42in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module adder_42in
+
+Top level modules:
+	adder_42in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/lv_reg.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/lv_reg.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module lv_reg
+
+Top level modules:
+	lv_reg
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/neuron42s_v2.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\neuron42s_v2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module neuron42s
+
+Top level modules:
+	neuron42s
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/OLV_v2.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\OLV_v2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OLV
+
+Top level modules:
+	OLV
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/pulse.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/pulse.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module pulse
+
+Top level modules:
+	pulse
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/tracer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/tracer.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tracer
+
+Top level modules:
+	tracer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comb_compare_4in.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comb_compare_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp_4in
+
+Top level modules:
+	comp_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/compare_4in.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/compare_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_4in
+
+Top level modules:
+	comparator_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/network.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\network.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module network
+
+Top level modules:
+	network
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/delayed_reset.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/delayed_reset.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module delayed_reset
+
+Top level modules:
+	delayed_reset
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/trainer_rff.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/trainer_rff.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module auto_trainer
+
+Top level modules:
+	auto_trainer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/wlif.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/wlif.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module wlif
+
+Top level modules:
+	wlif
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/synapse.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\synapse.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synapse
+
+Top level modules:
+	synapse
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/OLV_train.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\OLV_train.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OLV_train
+
+Top level modules:
+	OLV_train
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/spike_generator.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/spike_generator.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module spike_generator
+
+Top level modules:
+	spike_generator
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/adder_4in.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/adder_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module csa_adder_4in
+
+Top level modules:
+	csa_adder_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/feast_network.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/feast_network.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module feast_network
+
+Top level modules:
+	feast_network
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/flipflop.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/flipflop.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}}

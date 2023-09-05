@@ -1,0 +1,22 @@
+{C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comb_compare_4in.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\comb_compare_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp_4in
+
+Top level modules:
+	comp_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comparator_8in.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\ODESA_8N_42S\comparator_8in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_8in
+
+Top level modules:
+	comparator_8in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comparator_8in_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/ODESA_8N_42S/comparator_8in_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_8in_tb
+
+Top level modules:
+	comparator_8in_tb
+
+} {} {}}

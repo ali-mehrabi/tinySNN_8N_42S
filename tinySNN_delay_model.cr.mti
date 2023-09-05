@@ -1,0 +1,204 @@
+{C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/OLV_v2.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_v2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OLV
+
+Top level modules:
+	OLV
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comb_compare_4in.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comb_compare_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comp_4in
+
+Top level modules:
+	comp_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/tracer.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tracer
+
+Top level modules:
+	tracer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron_8v_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module neuron_8vs_tb
+
+Top level modules:
+	neuron_8vs_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_42in_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module adder_42in_tb
+
+Top level modules:
+	adder_42in_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\wlif.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module wlif
+
+Top level modules:
+	wlif
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/spike_generator.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module spike_generator
+
+Top level modules:
+	spike_generator
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/adder_4in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module csa_adder_4in
+
+Top level modules:
+	csa_adder_4in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_8in_tb
+
+Top level modules:
+	comparator_8in_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/read_sf.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module read_samples_from_file
+
+Top level modules:
+	read_samples_from_file
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/feast_network.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module feast_network
+
+Top level modules:
+	feast_network
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/addrer_42in.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\addrer_42in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module adder_42in
+
+Top level modules:
+	adder_42in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/wlif_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module wlif_tb
+
+Top level modules:
+	wlif_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module neuron42s
+
+Top level modules:
+	neuron42s
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/pulse.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module pulse
+
+Top level modules:
+	pulse
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/delayed_reset.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module delayed_reset
+
+Top level modules:
+	delayed_reset
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/auto_trainer_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module trainer_tb
+
+Top level modules:
+	trainer_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/trainer_rff.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module auto_trainer
+
+Top level modules:
+	auto_trainer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module network
+
+Top level modules:
+	network
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synapse.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synapse
+
+Top level modules:
+	synapse
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/flipflop.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module neuron42s_tb
+
+Top level modules:
+	neuron42s_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/synchronizer.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/comparator_8in.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\comparator_8in.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module comparator_8in
+
+Top level modules:
+	comparator_8in
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/OLV_train.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\OLV_train.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OLV_train
+
+Top level modules:
+	OLV_train
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/neuron42s_v2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module neuron42s
+
+Top level modules:
+	neuron42s
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/lv_reg.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module lv_reg
+
+Top level modules:
+	lv_reg
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/syynase_w_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synapse_w_tb
+
+Top level modules:
+	synapse_w_tb
+
+} {} {}} {C:/Users/30060006/Documents/PROJECTS/NEW ODESA DESIGNS/TinySNN_8N_42S_delay_sim/network_tb.v} {1 {vlog -work work -vopt -stats=none {C:\Users\30060006\Documents\PROJECTS\NEW ODESA DESIGNS\TinySNN_8N_42S_delay_sim\network_tb.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module network_tb
+
+Top level modules:
+	network_tb
+
+} {} {}}
